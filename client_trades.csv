@@ -1,0 +1,5 @@
+trade_time,direction,asset,denominated,quantity,price
+2022/5/30 17:00:00,buy,BTC,USD,1,30667
+2022/5/30 17:02:00,buy,BTC,USD,2,31000
+2022/5/30 17:02:00,sell,ETH,USD,1,1756.67
+2022/5/30 17:02:00,sell,BTC,USD,330,30500
