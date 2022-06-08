@@ -713,7 +713,7 @@ class Hedger:
 
 
 def main():
-    # Before running, replace this file path with a local path
+    # Change this to your chosen local file path
     trades_file = "client_trades.csv"
     hedger = Hedger(trades_file)
     hedger.run()
